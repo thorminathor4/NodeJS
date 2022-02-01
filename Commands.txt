@@ -1,0 +1,14 @@
+touch <filename> - makes file
+node <filename>  - runs a file with node
+node             - starts the node REPL
+rm <filename>    - removes file
+
+*REPL = Read Evaluate Print Loop
+
+mkdir <dirname>  - makes directory
+cd <dirname>     - changes directory
+cd ..            - changes to parent directory
+ls               - lists directory content
+
+git add -A              - adds all files and directories to git
+git commit -m <message> - commits all the new changes in git
