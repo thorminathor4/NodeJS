@@ -12,3 +12,4 @@ ls               - lists directory content
 
 git add -A              - adds all files and directories to git
 git commit -m <message> - commits all the new changes in git
+git push                - pushes to github
